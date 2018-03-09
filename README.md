@@ -1,23 +1,18 @@
-### The following text is an example of what can appear in this section.
+The following text is an example of what can appear in this section.
 <br></br>
-## Department Name
-
+## Product Owners
 This department works on the following products:
-<ul>
-  <bl>Product 1</bl>
-  <bl>Product 2</bl>
-  </ul>
+  - Product 1 
+  - Product 2 
  
  ## Product 1
  This product is a ..... It enables users to ....
  
  ### Features
  This product has the following features:
- <ul>
-  <bl>Feature 1</bl>
-  <bl>Feature 2</bl>
-  <bl>Feature 3</bl>
-  </ul>
+  - Feature 1 
+  - Feature 2 
+  - Feature 3 
   
  ### Documentation
  Perform the steps in the following <i>hyperlink</i>:
