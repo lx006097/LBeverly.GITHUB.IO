@@ -16,16 +16,13 @@ This department works on the following products:
   
  ### Documentation
  Perform the steps in the following <i>hyperlink</i>:
- 
-<ul>
-  <bl>Link 1</bl>: Product requirements and installation
-  <bl>Link 2</bl>: Product configuration
-  <bl>Link 3</bl>: Run product
-   <bl>Link 5</bl>: Product home page
-   <bl>Link 4</bl>: Additional tools
-  <bl>Link 5</bl>: Troubleshoot product
-   <bl>Link 6</bl>: Related documentation
-  </ul>
+ - Link 1: Product requirements and installation
+ - Link 2: Product configuration
+ - Link 3: Run product
+ - Link 5: Product home page
+ - Link 4: Additional tools
+ - Link 5: Troubleshoot product
+ - Link 6: Related documentation
   
 ### Support
 Having trouble? Contact Support.
