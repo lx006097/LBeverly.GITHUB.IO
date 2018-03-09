@@ -1,7 +1,8 @@
 The following text is an example of what can appear in this section.
 <br></br>
-## Product Owners
-This department works on the following products:
+
+## Team
+This team works on the following products:
   - Product 1 
   - Product 2 
  
