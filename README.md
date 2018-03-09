@@ -1,5 +1,5 @@
 ### The following text is an example of what can appear in this section.
-
+<br></br>
 ## Department Name
 
 This department works on the following products:
