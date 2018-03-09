@@ -1,4 +1,4 @@
-##The following text is an example of what can appear in this section.
+## The following text is an example of what can appear in this section.
 
 ## Maxar Technologies
 
