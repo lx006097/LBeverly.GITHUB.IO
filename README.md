@@ -1,7 +1,7 @@
  
 <h2>Table of Contents</h2>
 A list of site contents that enables people to quickly navigate long or detailed READMEs.
- <h2><a href="#templates">Templates in Confluence</a></h2>
+ <h2>Templates in Confluence</h2>
  <ul>
   <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Product+Updates+Template">Product Updates Template</a></li>
   <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Product+Documentation+Template">Product Documentation Template</a></li>
