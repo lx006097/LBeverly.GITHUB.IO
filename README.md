@@ -1,5 +1,5 @@
  
-Table of Contents: A table of contents enable people to quickly navigate long or detailed READMEs.
+Table of Contents: A list of site contents that enables people to quickly navigate long or detailed READMEs.
 <ul>
   <li><a href="#name">Product/project name></a></li>
   <li><a href="#description">Product/project description</a></li>
