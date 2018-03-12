@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true
+      site.pages
+      site.posts
+      site.documents
+      site.url
+      
