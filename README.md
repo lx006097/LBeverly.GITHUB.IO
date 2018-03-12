@@ -1,8 +1,7 @@
  
 <h2>Table of Contents</h2>
 A list of site contents that enables people to quickly navigate long or detailed READMEs.
-<ul>
- <li><a href="#templates">Templates Confluence</a></li>
+ <h2><a href="#templates">Templates in Confluence</a></h2>
  <ul>
   <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Product+Updates+Template">Product Updates Template</a></li>
   <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Product+Documentation+Template">Product Documentation Template</a></li>
@@ -10,7 +9,7 @@ A list of site contents that enables people to quickly navigate long or detailed
   <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Major+Incident+Template">Major Incident Template</a></li>
   <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Publications">Style Guide</a></li>
  </ul>
- <h2>Table of Contents</h2>
+ <h2>Word Templates</h2>
   <li><a href="#name">Product/project name</a></li>
   <li><a href="#description">Product/project description</a></li>
   <li><a href="#installation">Installation</a></li>
