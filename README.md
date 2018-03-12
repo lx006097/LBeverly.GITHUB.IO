@@ -19,5 +19,5 @@ Table of Contents: A list of site contents that enables people to quickly naviga
 
 <h2><A name="contributors">Contributors</a></h2> Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If there are specific contribution preferences, explain them so that other developers know how to best contribute to the work.
 
-<h2><A name="reviewers">Reviewers</h2></a>Project Subject Matter Experts--SMEs</a>
+<h2><A name="reviewers">Reviewers</a></h2>Project Subject Matter Experts--SMEs</a>
 </ul>
