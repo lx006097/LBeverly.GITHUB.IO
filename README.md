@@ -3,7 +3,7 @@
 A list of site contents that enables people to quickly navigate long or detailed READMEs.
  <h2>Templates in Confluence</h2>
  <ul>
-  <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Product+Updates+Template">Product Updates Template</a></li>
+  <li><a href="https://wiki.digitalglobe.com/display/~lx006097/Cloud Structure">Home Page</a></li>
   <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Product+Documentation+Template">Product Documentation Template</a></li>
   <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Deployment+Notice+Template">Deployment Notice Template</a></li>
   <li><a href="https://wiki.digitalglobe.com/display/ISDECS/Major+Incident+Template">Major Incident Template</a></li>
